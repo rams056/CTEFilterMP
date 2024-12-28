@@ -56,7 +56,7 @@ fun FilterScreen() {
             .background(Color.White)
             .fillMaxWidth()
     ) {
-
+        //Text("Waiting for cte filters json file from resource not calling")
         /*AppTopBar("Filter", onClick = {
             // Toast.makeText(context, "Filter", Toast.LENGTH_SHORT).show()
             if (activity != null) {
@@ -66,12 +66,6 @@ fun FilterScreen() {
 
         JsonListScreen(filters.filters)
     }
-}
-
-@Composable
-fun loadFilters(): FiltersX {
-    val filters = getFiltersFromJson("instafilters.json")
-    return filters.filters
 }
 
 @Composable

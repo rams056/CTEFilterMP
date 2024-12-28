@@ -54,7 +54,9 @@ kotlin {
     }
     
     sourceSets {
-        val desktopMain by getting
+        val desktopMain by getting {
+            resources.srcDir("src/desktopMain/resources")
+        }
         
         androidMain.dependencies {
             implementation(compose.preview)

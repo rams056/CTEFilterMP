@@ -1,0 +1,2105 @@
+{
+  "filters": {
+    "mainList": [
+      {
+        "title": "City",
+        "isSelected": false,
+        "selectedCount":0
+      },
+      {
+        "title": "Makes/Models",
+        "isSelected": false,
+        "selectedCount":10
+      },
+      {
+        "title": "Age",
+        "isSelected": false,
+        "selectedCount":0
+      },
+      {
+        "title": "Fuel",
+        "isSelected": false,
+        "selectedCount":0
+      },
+      {
+        "title": "Owners",
+        "isSelected": false,
+        "selectedCount":0
+      },
+      {
+        "title": "Best Match",
+        "isSelected": false,
+        "selectedCount":0
+      }
+    ],
+    "makesModels": [
+      {
+        "isSelected": true,
+        "title": "Maruti Suzuki",
+        "models": [
+          {
+            "title": "1000",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "800",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "AC BS II",
+                "isSelected": false
+              },
+              {
+                "title": "AC BS III",
+                "isSelected": false
+              },
+              {
+                "title": "AC Uniq",
+                "isSelected": false
+              },
+              {
+                "title": "Duo AC LPG",
+                "isSelected": false
+              },
+              {
+                "title": "Duo Std LPG",
+                "isSelected": false
+              },
+              {
+                "title": "DX",
+                "isSelected": false
+              },
+              {
+                "title": "DX 5 SPEED",
+                "isSelected": false
+              },
+              {
+                "title": "DX BS II",
+                "isSelected": false
+              },
+              {
+                "title": "EX",
+                "isSelected": false
+              },
+              {
+                "title": "EX 5 Speed",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "A Star",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto 800",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto K10",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Baleno",
+            "isSelected": false, "variant": [
+            {
+              "title": "AC",
+              "isSelected": false
+            },
+            {
+              "title": "Std",
+              "isSelected": false
+            }
+          ]
+          },
+          {
+            "title": "Brezza",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Celerio",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Celerio X",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "isSelected": false,
+        "title": "Hyundai",
+        "models": [
+          {
+            "title": "1000 Hyundai",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "800",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "AC BS II",
+                "isSelected": false
+              },
+              {
+                "title": "AC BS III",
+                "isSelected": false
+              },
+              {
+                "title": "AC Uniq",
+                "isSelected": false
+              },
+              {
+                "title": "Duo AC LPG",
+                "isSelected": false
+              },
+              {
+                "title": "Duo Std LPG",
+                "isSelected": false
+              },
+              {
+                "title": "DX",
+                "isSelected": false
+              },
+              {
+                "title": "DX 5 SPEED",
+                "isSelected": false
+              },
+              {
+                "title": "DX BS II",
+                "isSelected": false
+              },
+              {
+                "title": "EX",
+                "isSelected": false
+              },
+              {
+                "title": "EX 5 Speed",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "A Star",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto 800",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto K10",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Baleno",
+            "isSelected": false, "variant": [
+            {
+              "title": "AC",
+              "isSelected": false
+            },
+            {
+              "title": "Std",
+              "isSelected": false
+            }
+          ]
+          },
+          {
+            "title": "Brezza",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Celerio",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Celerio X",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "isSelected": false,
+        "title": "Tata",
+        "models": [
+          {
+            "title": "1000 Tata",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "800",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "AC BS II",
+                "isSelected": false
+              },
+              {
+                "title": "AC BS III",
+                "isSelected": false
+              },
+              {
+                "title": "AC Uniq",
+                "isSelected": false
+              },
+              {
+                "title": "Duo AC LPG",
+                "isSelected": false
+              },
+              {
+                "title": "Duo Std LPG",
+                "isSelected": false
+              },
+              {
+                "title": "DX",
+                "isSelected": false
+              },
+              {
+                "title": "DX 5 SPEED",
+                "isSelected": false
+              },
+              {
+                "title": "DX BS II",
+                "isSelected": false
+              },
+              {
+                "title": "EX",
+                "isSelected": false
+              },
+              {
+                "title": "EX 5 Speed",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "A Star",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto 800",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto K10",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Baleno",
+            "isSelected": false, "variant": [
+            {
+              "title": "AC",
+              "isSelected": false
+            },
+            {
+              "title": "Std",
+              "isSelected": false
+            }
+          ]
+          },
+          {
+            "title": "Brezza",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Celerio",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Celerio X",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "isSelected": false,
+        "title": "Volkswagen",
+        "models": [
+          {
+            "title": "1000",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "800",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "AC BS II",
+                "isSelected": false
+              },
+              {
+                "title": "AC BS III",
+                "isSelected": false
+              },
+              {
+                "title": "AC Uniq",
+                "isSelected": false
+              },
+              {
+                "title": "Duo AC LPG",
+                "isSelected": false
+              },
+              {
+                "title": "Duo Std LPG",
+                "isSelected": false
+              },
+              {
+                "title": "DX",
+                "isSelected": false
+              },
+              {
+                "title": "DX 5 SPEED",
+                "isSelected": false
+              },
+              {
+                "title": "DX BS II",
+                "isSelected": false
+              },
+              {
+                "title": "EX",
+                "isSelected": false
+              },
+              {
+                "title": "EX 5 Speed",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "A Star",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto 800",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto K10",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Baleno",
+            "isSelected": false, "variant": [
+            {
+              "title": "AC",
+              "isSelected": false
+            },
+            {
+              "title": "Std",
+              "isSelected": false
+            }
+          ]
+          },
+          {
+            "title": "Brezza",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Celerio",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Celerio X",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "isSelected": false,
+        "title": "Honda",
+        "models": [
+          {
+            "title": "1000",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "800",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "AC BS II",
+                "isSelected": false
+              },
+              {
+                "title": "AC BS III",
+                "isSelected": false
+              },
+              {
+                "title": "AC Uniq",
+                "isSelected": false
+              },
+              {
+                "title": "Duo AC LPG",
+                "isSelected": false
+              },
+              {
+                "title": "Duo Std LPG",
+                "isSelected": false
+              },
+              {
+                "title": "DX",
+                "isSelected": false
+              },
+              {
+                "title": "DX 5 SPEED",
+                "isSelected": false
+              },
+              {
+                "title": "DX BS II",
+                "isSelected": false
+              },
+              {
+                "title": "EX",
+                "isSelected": false
+              },
+              {
+                "title": "EX 5 Speed",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "A Star",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto 800",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto K10",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Baleno",
+            "isSelected": false, "variant": [
+            {
+              "title": "AC",
+              "isSelected": false
+            },
+            {
+              "title": "Std",
+              "isSelected": false
+            }
+          ]
+          },
+          {
+            "title": "Brezza",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Celerio",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Celerio X",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "isSelected": false,
+        "title": "Toyota",
+        "models": [
+          {
+            "title": "1000",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "800",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "AC BS II",
+                "isSelected": false
+              },
+              {
+                "title": "AC BS III",
+                "isSelected": false
+              },
+              {
+                "title": "AC Uniq",
+                "isSelected": false
+              },
+              {
+                "title": "Duo AC LPG",
+                "isSelected": false
+              },
+              {
+                "title": "Duo Std LPG",
+                "isSelected": false
+              },
+              {
+                "title": "DX",
+                "isSelected": false
+              },
+              {
+                "title": "DX 5 SPEED",
+                "isSelected": false
+              },
+              {
+                "title": "DX BS II",
+                "isSelected": false
+              },
+              {
+                "title": "EX",
+                "isSelected": false
+              },
+              {
+                "title": "EX 5 Speed",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "A Star",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto 800",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto K10",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Baleno",
+            "isSelected": false, "variant": [
+            {
+              "title": "AC",
+              "isSelected": false
+            },
+            {
+              "title": "Std",
+              "isSelected": false
+            }
+          ]
+          },
+          {
+            "title": "Brezza",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Celerio",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Celerio X",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "isSelected": false,
+        "title": "Ford",
+        "models": [
+          {
+            "title": "1000",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "800",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "AC BS II",
+                "isSelected": false
+              },
+              {
+                "title": "AC BS III",
+                "isSelected": false
+              },
+              {
+                "title": "AC Uniq",
+                "isSelected": false
+              },
+              {
+                "title": "Duo AC LPG",
+                "isSelected": false
+              },
+              {
+                "title": "Duo Std LPG",
+                "isSelected": false
+              },
+              {
+                "title": "DX",
+                "isSelected": false
+              },
+              {
+                "title": "DX 5 SPEED",
+                "isSelected": false
+              },
+              {
+                "title": "DX BS II",
+                "isSelected": false
+              },
+              {
+                "title": "EX",
+                "isSelected": false
+              },
+              {
+                "title": "EX 5 Speed",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "A Star",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto 800",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto K10",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Baleno",
+            "isSelected": false, "variant": [
+            {
+              "title": "AC",
+              "isSelected": false
+            },
+            {
+              "title": "Std",
+              "isSelected": false
+            }
+          ]
+          },
+          {
+            "title": "Brezza",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Celerio",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Celerio X",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "isSelected": false,
+        "title": "Chevrolet",
+        "models": [
+          {
+            "title": "1000",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "800",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "AC BS II",
+                "isSelected": false
+              },
+              {
+                "title": "AC BS III",
+                "isSelected": false
+              },
+              {
+                "title": "AC Uniq",
+                "isSelected": false
+              },
+              {
+                "title": "Duo AC LPG",
+                "isSelected": false
+              },
+              {
+                "title": "Duo Std LPG",
+                "isSelected": false
+              },
+              {
+                "title": "DX",
+                "isSelected": false
+              },
+              {
+                "title": "DX 5 SPEED",
+                "isSelected": false
+              },
+              {
+                "title": "DX BS II",
+                "isSelected": false
+              },
+              {
+                "title": "EX",
+                "isSelected": false
+              },
+              {
+                "title": "EX 5 Speed",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "A Star",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto 800",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto K10",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Baleno",
+            "isSelected": false, "variant": [
+            {
+              "title": "AC",
+              "isSelected": false
+            },
+            {
+              "title": "Std",
+              "isSelected": false
+            }
+          ]
+          },
+          {
+            "title": "Brezza",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Celerio",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Celerio X",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "isSelected": false,
+        "title": "Mahindra",
+        "models": [
+          {
+            "title": "1000",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "800",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "AC BS II",
+                "isSelected": false
+              },
+              {
+                "title": "AC BS III",
+                "isSelected": false
+              },
+              {
+                "title": "AC Uniq",
+                "isSelected": false
+              },
+              {
+                "title": "Duo AC LPG",
+                "isSelected": false
+              },
+              {
+                "title": "Duo Std LPG",
+                "isSelected": false
+              },
+              {
+                "title": "DX",
+                "isSelected": false
+              },
+              {
+                "title": "DX 5 SPEED",
+                "isSelected": false
+              },
+              {
+                "title": "DX BS II",
+                "isSelected": false
+              },
+              {
+                "title": "EX",
+                "isSelected": false
+              },
+              {
+                "title": "EX 5 Speed",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "A Star",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto 800",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto K10",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Baleno",
+            "isSelected": false, "variant": [
+            {
+              "title": "AC",
+              "isSelected": false
+            },
+            {
+              "title": "Std",
+              "isSelected": false
+            }
+          ]
+          },
+          {
+            "title": "Brezza",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Celerio",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Celerio X",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "isSelected": false,
+        "title": "Skoda",
+        "models": [
+          {
+            "title": "1000",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "800",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "AC BS II",
+                "isSelected": false
+              },
+              {
+                "title": "AC BS III",
+                "isSelected": false
+              },
+              {
+                "title": "AC Uniq",
+                "isSelected": false
+              },
+              {
+                "title": "Duo AC LPG",
+                "isSelected": false
+              },
+              {
+                "title": "Duo Std LPG",
+                "isSelected": false
+              },
+              {
+                "title": "DX",
+                "isSelected": false
+              },
+              {
+                "title": "DX 5 SPEED",
+                "isSelected": false
+              },
+              {
+                "title": "DX BS II",
+                "isSelected": false
+              },
+              {
+                "title": "EX",
+                "isSelected": false
+              },
+              {
+                "title": "EX 5 Speed",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "A Star",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto 800",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto K10",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Baleno",
+            "isSelected": false, "variant": [
+            {
+              "title": "AC",
+              "isSelected": false
+            },
+            {
+              "title": "Std",
+              "isSelected": false
+            }
+          ]
+          },
+          {
+            "title": "Brezza",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Celerio",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Celerio X",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "isSelected": false,
+        "title": "Ashok Leyland",
+        "models": [
+          {
+            "title": "1000",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "800",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "AC BS II",
+                "isSelected": false
+              },
+              {
+                "title": "AC BS III",
+                "isSelected": false
+              },
+              {
+                "title": "AC Uniq",
+                "isSelected": false
+              },
+              {
+                "title": "Duo AC LPG",
+                "isSelected": false
+              },
+              {
+                "title": "Duo Std LPG",
+                "isSelected": false
+              },
+              {
+                "title": "DX",
+                "isSelected": false
+              },
+              {
+                "title": "DX 5 SPEED",
+                "isSelected": false
+              },
+              {
+                "title": "DX BS II",
+                "isSelected": false
+              },
+              {
+                "title": "EX",
+                "isSelected": false
+              },
+              {
+                "title": "EX 5 Speed",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "A Star",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto 800",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Alto K10",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Baleno",
+            "isSelected": false, "variant": [
+            {
+              "title": "AC",
+              "isSelected": false
+            },
+            {
+              "title": "Std",
+              "isSelected": false
+            }
+          ]
+          },
+          {
+            "title": "Brezza",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Celerio",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          },
+          {
+            "title": "Celerio X",
+            "isSelected": false,
+            "variant": [
+              {
+                "title": "AC",
+                "isSelected": false
+              },
+              {
+                "title": "Std",
+                "isSelected": false
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "age": [
+      {
+        "isSelected": false,
+        "title": "0-3 Years (10)"
+      },
+      {
+        "isSelected": true,
+        "title": "4-7 Years (4)"
+      },
+      {
+        "isSelected": false,
+        "title": "8-10 Years (2)"
+      },
+      {
+        "isSelected": false,
+        "title": "10+ Years (1)"
+      }
+    ],
+
+    "fuel": [
+      {
+        "isSelected": true,
+        "title": "Petrol"
+      },
+      {
+        "isSelected": false,
+        "title": "Diesel"
+      },
+      {
+        "isSelected": false,
+        "title": "CNG"
+      },
+      {
+        "isSelected": false,
+        "title": "Electrical"
+      }
+    ],
+
+    "owners": [
+      {
+        "isSelected": false,
+        "title": "1 Owner (5)"
+      },
+      {
+        "isSelected": true,
+        "title": "2 Owner (0)"
+      },
+      {
+        "isSelected": false,
+        "title": "3+ Owner (7)"
+      }
+    ],
+    "city": [
+      {
+        "isSelected": false,
+        "title": "Mumbai"
+      },
+      {
+        "isSelected": false,
+        "title": "Hyderbad"
+      },
+      {
+        "isSelected": true,
+        "title": "Kakinada"
+      },
+      {
+        "isSelected": false,
+        "title": "Vizag"
+      }
+    ],
+    "bestMatch": [
+      {
+        "isSelected": false,
+        "title": "Best Match"
+      }
+    ]
+  }
+}
